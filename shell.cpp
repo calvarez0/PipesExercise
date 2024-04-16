@@ -1,5 +1,5 @@
 /****************
-LE2: Introduction to Unnamed Pipes
+Introduction to Unnamed Pipes
 ****************/
 #include <stdio.h> // perror
 #include <stdlib.h> // exit, EXIT_FAILURE
